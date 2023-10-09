@@ -1,0 +1,14 @@
+h1{
+    color:#43A1CB;
+    font-weight:bold;
+    text-align:center;
+}
+
+table{
+    font-weight:bold;
+    text-align:center;
+    margin:auto;
+    position: relative;
+    border: 1px solid #000;
+    border-spacing:0;
+}
